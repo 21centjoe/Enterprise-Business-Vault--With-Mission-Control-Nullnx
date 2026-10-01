@@ -1,29 +1,11 @@
 # Enterprise-Business-Vault--With-Mission-Control-Nullnx
-Reed-solomon  geometric file healing with AES encryption and live mission control.  Agnostic comm links and flight simulator/codebase
-# NullNX Shards
+Reed-solomon  geometric file healing with AES encryption and live mission control.  
 
-**Inventor:** Joseph La Follette
+Agnostic comm links and flight simulator/codebase
 
-**License:** GNU Affero General Public License v3.0 (AGPL-3.0-or-later)
+Copyright and License: Copyrighted in 2026 by Joseph La Follette under the AGPL V.3 license, with contact email 21centjoe@gmail.com.  
+Core Architecture: Features real Web Crypto AES-256-GCM encryption, PBKDF2 key derivation, CRC32 verification, and a GF(256) Reed-Solomon erasure engine ("White Cat Red Rose", telemetry code NULLNX-RSE) for file healing.   
 
-## Overview
+Access and Security: Uses a random Master Key protected by two independent wrapped copies (passphrase and a one-time recovery coin), automatic account lockout for failed attempts, and local storage management.   
 
-NullNX Shards is a lightweight, zero-dependency parallel supercomputing engine that bridges structural geometry and decentralized computation. By mapping computational workloads directly onto the 60 vertices and topological bonds of a $C_{60}$ fullerene cage, the system transforms a consumer device or GPU environment into a localized, high-throughput parallel processor.
-
-## What is it Good For?
-
-* **Edge and Browser-Based Supercomputing:** Turns any consumer device—a laptop, tablet, or smartphone—into a localized parallel processor without nee
-
-## Is it Novel?
-
-Conceptually and structurally, NullNX Shards introduces a unique synthesis of physical topology and parallel execution:
-
-* **The Molecular Metaphor as an Interface:** Using a physical $C_{60}$ buckyball lattice as the literal shard map and 3D telemetry dashboard for a distributed compute job bridges physical chemistry and parallel computing in an innovative way.
-
-* **The Zero-Dependency Monolith:** Packing a full 3D rendering engine, dynamic task queue, and advanced mathematical sieves into a single, entirely self-contained HTML file defies the standard requirement for heavy backend frameworks.
-
-* **Geometric Task Enforcement:** Forcing variable mathematical ranges to partition strictly into 60 discrete shards corresponding to a carbon cage transforms standard load-balancing into a structural geometry problem.
-
-## Licensing
-
-This project is open source software licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0-or-later)**. You are free to run, study, share, and modify the software under the terms of the AGPLv3.
+Ground Control & Fleet: Includes signal-agnostic drone linking (sim, serial, WebSocket) with HMAC-SHA256 authentication, USGS/NOAA/NWS map layers centered on Cameron County, Texas, and a Cockpit interface.   
